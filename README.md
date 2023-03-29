@@ -23,6 +23,4 @@ This is where I make commits and review pull requests during weekdays, i.e, work
 - 😄 Pronouns: He
 - ⚡ Fun fact: next time
 
-You can also find my personal account at [@lakshmaji](https://github.com/lakshmaji).
-
-If you're interested in seeing my contributions, take a look at my graph below to see how much I've contributed to code reviews, commits, and issues.
+<!-- You can also find my personal account at [@lakshmaji](https://github.com/lakshmaji). -->
