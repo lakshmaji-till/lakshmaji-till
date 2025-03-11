@@ -23,4 +23,6 @@ This is where I make commits and review pull requests during weekdays, i.e, work
 - 😄 Pronouns: He
 - ⚡ Fun fact: next time
 
-<!-- You can also find my personal account at [@lakshmaji](https://github.com/lakshmaji). -->
+  Why 🤔 : Office work
+
+Main account [@lakshmaji](https://github.com/lakshmaji).
