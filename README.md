@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="387" height="516" alt="image" src="https://github.com/user-attachments/assets/817ebffc-8564-4fc2-8cda-07fb9c01356f" />
 
 <!--
 **lakshmaji-till/lakshmaji-till** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
